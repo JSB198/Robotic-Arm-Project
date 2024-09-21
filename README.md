@@ -3,4 +3,5 @@ This project is still a work in progress and the repository will be updated as t
 The aim of the project is to have the robot arm sort objects by picking up and placing them down in designated positions.
 
 ## Current Version
-Robot is able to move to all designated positions and pick up and place down objects (see youtube video link). 
+Robot is able to move to all designated positions and pick up and place down objects (see below youtube video link). 
+Link of demonstration : https://youtu.be/SiDiiW4zKR8
