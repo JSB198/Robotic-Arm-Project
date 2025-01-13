@@ -5,7 +5,7 @@ This project is now complete, the following is what it achieved:
  * Custom blazer mobile app that gave users the ability to start and stop the sorting process (uses an express server with a REST API to connect the app and the robot arm together).
  * Custom blazer mobile app also gives users status updates about the mobile app and the robot (connected or not connected).
  * Mobile app also tells users what the robot arm is currently doing (currently sorting or on standby).
- * 
+   
 ## Current Version
 Robot is able to move to all designated positions and pick up and place down objects (see below youtube video link). 
 Link of demonstration : https://youtu.be/SiDiiW4zKR8
